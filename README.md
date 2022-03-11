@@ -22,9 +22,9 @@ BIO TBD
     <img src="https://img.shields.io/badge/Javascript-007f00?logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript">
     <img src="https://img.shields.io/badge/Arch%20Linux-007f00?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux">
     <img src="https://img.shields.io/badge/BSPWM+SXHKD-007f00?logo=github&logoColor=white&style=for-the-badge" alt="BSPWM+SXHKD">
+    <img src="https://img.shields.io/badge/Suckless%20Tools-007f00?logo=suckless&logoColor=white&style=for-the-badge" alt="Suckless">
     <img src="https://img.shields.io/badge/Docker-007f00?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
     <img src="https://img.shields.io/badge/Jet%20Brains-007f00?logo=jetbrains&logoColor=white&style=for-the-badge" alt="Jet Brains">
-    <img src="https://img.shields.io/badge/Suckless%20Tools-007f00?logo=suckless&logoColor=white&style=for-the-badge" alt="Suckless">
 </div>
 
 <!-- ### Recent blog posts
