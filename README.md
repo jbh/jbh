@@ -40,5 +40,3 @@ BLOG-POST-LIST:END -->
     <a href="https://twitter.com/tweetjbh"><img src="https://img.shields.io/badge/Twitter-007f00?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/jbhall"><img src="https://img.shields.io/badge/LinkedIn-007f00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </div>
-
-> **I have office hours every Tuesday and Wednesday from 21:00-23:00 UTC in [the Laminas Slack](https://laminas.slack.com).**
