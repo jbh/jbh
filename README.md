@@ -8,8 +8,8 @@ Passionate advocate of open source. Business owner and public speaker.
 Lover of animals, cooking, horror films, hip-hop, pool, and the Oxford
 comma; for lists.
 
-They/Them/Their, `#IBMi` and `#Linux` `#OpenSource` expert; bridging gaps, 
-`#IBMChampion`, and self-proclaimed billiard-monk. `#CMTLife` `#CMTWarrior` 
+They/Them/Their; `#IBMi` and `#Linux` `#OpenSource` expert; bridging gaps; 
+consecutive, 4-year `#IBMChampion`; and self-proclaimed billiard-monk. `#CMTLife` `#CMTWarrior` 
 `#CMTStrong`
 
 Senior Solutions Engineer @ Zend by Perforce; **The** PHP Company.
