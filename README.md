@@ -66,3 +66,9 @@ Yes; they're worth buying the physical copy.
     <a href="https://twitter.com/tweetjbh"><img src="https://img.shields.io/badge/Twitter-0b626b?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/jbhall"><img src="https://img.shields.io/badge/LinkedIn-0b626b?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </div>
+
+-----
+
+### Current song obsession
+
+- [Trying My Best](https://www.youtube.com/watch?v=6jJD_bXymR0) - Anson Seabra
