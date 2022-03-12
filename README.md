@@ -44,7 +44,7 @@ jhall@perforce.com
 Yeah, they're worth buying the physical copy.
 
 - [Peace is Every Step](https://smile.amazon.com/Peace-Every-Step-Mindfulness-Everyday/dp/0553351397/) - Thich Nhat Hanh (lovely teachings)
-- [The Art of Power](https://smile.amazon.com/Art-Power-Thich-Nhat-Hanh/dp/0061242365/) - Thich Nhat Hanh (antithetical to The Art of War)
+- [The Art of Power](https://smile.amazon.com/Art-Power-Thich-Nhat-Hanh/dp/0061242365/) - Thich Nhat Hanh (antithetical to The Art of War; power through compassion)
 - [How to Win Friends and Influence People](https://smile.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/) - Dale Carnegie (used to be required reading!)
 
 
