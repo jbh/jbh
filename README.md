@@ -39,7 +39,7 @@ jhall@perforce.com
 
 -----
 
-### Book Suggestions (not affiliate links)
+### Book Suggestions (not affiliate links; amazon smile)
 
 Yes; they're worth buying the physical copy.
 
