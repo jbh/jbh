@@ -50,6 +50,15 @@ Yes; they're worth buying the physical copy.
 
 -----
 
+### Movie Suggestions (no links)
+
+- A Beautiful Mind
+- Good Will Hunting
+- Secret Window
+
+
+-----
+
 ### Where to find me
 
 <div align="center">
