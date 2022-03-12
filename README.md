@@ -12,6 +12,9 @@ They/Them/Their, `#IBMi` and `#Linux` `#OpenSource` expert; bridging gaps,
 `#IBMChampion`, and self-proclaimed billiard-monk. `#CMTLife` `#CMTWarrior` 
 `#CMTStrong`
 
+Senior Solutions Engineer @ Zend by Perforce; **The** PHP Company.
+
+jhall@perforce.com
 
 -----
 
