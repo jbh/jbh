@@ -5,8 +5,8 @@
 -----
 
 <div align="center">
-    Senior Solutions Architect & Community Steward @ <a href="https://zend.com/" target="_blank">Zend</a>
-    by <a href="https://perforce.com/" target="_blank">Perforce</a> <strong>The</strong> <em>PHP</em> & <em>DevOps</em> Company.
+    Senior Solutions Architect & Community Steward @ <a href="https://zend.com/">Zend</a>
+    by <a href="https://perforce.com/">Perforce</a> <strong>The</strong> <em>PHP</em> & <em>DevOps</em> Company.
 </div>
 
 -----
@@ -43,9 +43,9 @@ comma; for lists.
 
 ### Book Suggestions (not affiliate links; amazon smile)
 
-> Good Reads <a href="https://www.goodreads.com/review/list/91375999-joshua?ref=nav_mybooks&shelf=read" target="_blank">read list</a>.
+> Good Reads [read list](https://www.goodreads.com/review/list/91375999-joshua?ref=nav_mybooks&shelf=read).
 > 
-> Yes; they're worth buying the physical copy.
+> Yes; the books below are well-worth buying the physical copy.
 
 
 - [Peace is Every Step](https://smile.amazon.com/Peace-Every-Step-Mindfulness-Everyday/dp/0553351397/) - Thich Nhat Hanh (lovely teachings; no mud, no lotus)
@@ -58,7 +58,6 @@ comma; for lists.
 
 - A Beautiful Mind
 - Good Will Hunting
-- Secret Window
 - Rain Man
 
 -----
