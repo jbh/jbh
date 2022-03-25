@@ -4,17 +4,19 @@
 
 -----
 
-Passionate advocate of open source. Business owner and public speaker.
+<div align="center">
+    Senior Solutions Architect & Community Steward @ <a href="https://zend.com/" target="_blank">Zend</a>
+    by <a href="https://perforce.com/" target="_blank">Perforce</a> <strong>The</strong> <em>PHP</em> & <em>DevOps</em> Company.
+</div>
+
+-----
+
+💍😇🙏✌💻🎱🚲 | They/Them | Coding since age 9 👶➡️👨‍💻 | `#Autistic` w/ `#CharcotMarieTooth`
+| `#IBMi` + `#Linux`; `#OpenSource` `#Monk`; `#BridgingGaps`; `#IBMChampion`
+
+Passionate advocate of open source and its movement & mindset. Business owner and public speaker.
 Lover of animals, cooking, horror films, hip-hop, pool, and the Oxford
 comma; for lists.
-
-They/Them/Their; `#IBMi` and `#Linux` `#OpenSource` expert; bridging gaps; 
-consecutive, 4-year `#IBMChampion`; and self-proclaimed billiard-monk. `#CMTLife` `#CMTWarrior` 
-`#CMTStrong`
-
-Senior Solutions Engineer @ Zend by Perforce; **The** PHP Company.
-
-jhall@perforce.com
 
 -----
 
@@ -41,12 +43,14 @@ jhall@perforce.com
 
 ### Book Suggestions (not affiliate links; amazon smile)
 
-Yes; they're worth buying the physical copy.
+> Good Reads <a href="https://www.goodreads.com/review/list/91375999-joshua?ref=nav_mybooks&shelf=read" target="_blank">read list</a>.
+> 
+> Yes; they're worth buying the physical copy.
+
 
 - [Peace is Every Step](https://smile.amazon.com/Peace-Every-Step-Mindfulness-Everyday/dp/0553351397/) - Thich Nhat Hanh (lovely teachings; no mud, no lotus)
 - [The Art of Power](https://smile.amazon.com/Art-Power-Thich-Nhat-Hanh/dp/0061242365/) - Thich Nhat Hanh (antithetical to The Art of War; power through compassion)
 - [How to Win Friends and Influence People](https://smile.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/) - Dale Carnegie (used to be required reading!)
-
 
 -----
 
@@ -56,7 +60,6 @@ Yes; they're worth buying the physical copy.
 - Good Will Hunting
 - Secret Window
 - Rain Man
-
 
 -----
 
