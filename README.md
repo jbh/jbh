@@ -12,7 +12,7 @@
 
 <div align="center">
     <strong><em>Senior Solutions Architect</em></strong> & <strong><em>Community Steward</em></strong>
-    @ <a href="https://zend.com/">Zend</a> by <a href="https://perforce.com/">Perforce</a> <strong>The</strong>
+    @ <a href="https://zend.com/">Zend</a> by <a href="https://perforce.com/">Perforce</a> <strong>the</strong>
     <em>PHP</em> & <em>DevOps</em> Company.
 </div>
 
