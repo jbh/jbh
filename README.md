@@ -40,8 +40,8 @@
 
 -----
 
-💍😇🙏✌💻🎱🚲 | They/Them | Coding since age 9 👶➡️👨‍💻 | `#Autistic` w/ `#CharcotMarieTooth`
-| `#IBMi` + `#Linux`; `#OpenSource` `#Monk`; `#BridgingGaps`; `#IBMChampion`
+💻🎱🚲 | They/Them | Coding since age 9 👶➡️👨‍💻 |
+| `#IBMi` + `#Linux`; `#OpenSource` `#Monk`; `#IBMChampion`
 
 Passionate advocate of open source and its movement & mindset. Business owner and public speaker.
 Lover of animals, cooking, horror films, hip-hop, pool, and the Oxford
@@ -69,9 +69,3 @@ comma; for lists.
 - _Rain Man_
 - _Temple Grandin_
 - _What's Eating Gilbert Grape_
-
------
-
-### Current song obsession
-
-- [Trying My Best](https://www.youtube.com/watch?v=6jJD_bXymR0) - Anson Seabra
