@@ -44,7 +44,7 @@
 
 Passionate advocate of open source and its movement & mindset. Business owner and public speaker.
 Lover of animals, cooking, horror films, hip-hop, pool, and the Oxford
-comma; for lists.
+comma for lists.
 
 -----
 
