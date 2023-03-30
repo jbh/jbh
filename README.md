@@ -40,8 +40,7 @@
 
 -----
 
-💻🎱🚲 | They/Them | Coding since age 9 👶➡️👨‍💻 |
-| `#IBMi` + `#Linux`; `#OpenSource` `#Monk`; `#IBMChampion`
+💻🎱🚲 | They/Them | `#IBMi` + `#Linux`; `#OpenSource` `#Monk`; `#IBMChampion`
 
 Passionate advocate of open source and its movement & mindset. Business owner and public speaker.
 Lover of animals, cooking, horror films, hip-hop, pool, and the Oxford
